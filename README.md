@@ -1,2 +1,2 @@
 # GenerateImageFromString
-Generate an Image of Letters from a String in Swift
+This code is for if you want to create a UIImage of string/text.
